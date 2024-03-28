@@ -7,3 +7,7 @@ UPDATE alunos
 SET estado ="RJ"
 WHERE id = 7;
 -->estado
+
+https://github.com/daianasantosferreira/codigos2803
+
+https://github.com/daianasantosferreira/aula2803
