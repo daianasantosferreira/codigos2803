@@ -2,3 +2,8 @@ UPDATE alunos
 SET cidade ="americana"
 WHERE id = 2;
 --> cidade
+
+UPDATE alunos
+SET estado ="RJ"
+WHERE id = 7;
+-->estado
